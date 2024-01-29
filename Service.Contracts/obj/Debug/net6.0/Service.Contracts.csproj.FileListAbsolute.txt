@@ -1,0 +1,53 @@
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\bin\Debug\net6.0\Service.Contracts.deps.json
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\bin\Debug\net6.0\Service.Contracts.dll
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\bin\Debug\net6.0\Service.Contracts.pdb
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\bin\Debug\net6.0\Entities.dll
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\bin\Debug\net6.0\Shared.dll
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\bin\Debug\net6.0\Entities.pdb
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\bin\Debug\net6.0\Shared.pdb
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.AssemblyReference.cache
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfoInputs.cache
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfo.cs
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CoreCompileInputs.cache
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CopyComplete
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\Service.Contracts.dll
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
+F:\asp.net web api from YouTube\RealProject\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Service.Contracts.deps.json
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Service.Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Service.Contracts.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Entities.dll
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Shared.dll
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Entities.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Shared.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.AssemblyReference.cache
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfoInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfo.cs
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CoreCompileInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.sourcelink.json
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CopyComplete
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
+D:\work\talbat khaled ali\Talabat-Project\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll
+F:\talabat\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Service.Contracts.deps.json
+F:\talabat\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Service.Contracts.dll
+F:\talabat\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Service.Contracts.pdb
+F:\talabat\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Entities.dll
+F:\talabat\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Shared.dll
+F:\talabat\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Entities.pdb
+F:\talabat\Talabat-Project\Service.Contracts\bin\Debug\net6.0\Shared.pdb
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.AssemblyReference.cache
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfoInputs.cache
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfo.cs
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CoreCompileInputs.cache
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.sourcelink.json
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CopyComplete
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.dll
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
+F:\talabat\Talabat-Project\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll

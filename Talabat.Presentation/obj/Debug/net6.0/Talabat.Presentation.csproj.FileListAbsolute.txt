@@ -1,0 +1,71 @@
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Talabat.Presentation.deps.json
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Talabat.Presentation.dll
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Talabat.Presentation.pdb
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Entities.dll
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Shared.dll
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Entities.pdb
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Shared.pdb
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.csproj.AssemblyReference.cache
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.AssemblyInfoInputs.cache
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.AssemblyInfo.cs
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.csproj.CoreCompileInputs.cache
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.csproj.CopyComplete
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.dll
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\refint\Talabat.Presentation.dll
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.pdb
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\obj\Debug\net6.0\ref\Talabat.Presentation.dll
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Contracts.dll
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Repository.dll
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Repository.pdb
+F:\asp.net web api from YouTube\RealProject\Talabat.Presentation\bin\Debug\net6.0\Contracts.pdb
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Talabat.Presentation.deps.json
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Talabat.Presentation.dll
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Talabat.Presentation.pdb
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Entities.dll
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Repository.dll
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Shared.dll
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Repository.pdb
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Contracts.pdb
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Entities.pdb
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Shared.pdb
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.csproj.AssemblyReference.cache
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.AssemblyInfoInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.AssemblyInfo.cs
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.csproj.CoreCompileInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.sourcelink.json
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.csproj.CopyComplete
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.dll
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\refint\Talabat.Presentation.dll
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.pdb
+D:\work\talbat khaled ali\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\ref\Talabat.Presentation.dll
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Talabat.Presentation.deps.json
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Talabat.Presentation.dll
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Talabat.Presentation.pdb
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Contracts.dll
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Entities.dll
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Repository.dll
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Shared.dll
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Repository.pdb
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Contracts.pdb
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Entities.pdb
+F:\talabat\Talabat-Project\Talabat.Presentation\bin\Debug\net6.0\Shared.pdb
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.csproj.AssemblyReference.cache
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.AssemblyInfoInputs.cache
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.AssemblyInfo.cs
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.csproj.CoreCompileInputs.cache
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.sourcelink.json
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.csproj.CopyComplete
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.dll
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\refint\Talabat.Presentation.dll
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\Talabat.Presentation.pdb
+F:\talabat\Talabat-Project\Talabat.Presentation\obj\Debug\net6.0\ref\Talabat.Presentation.dll

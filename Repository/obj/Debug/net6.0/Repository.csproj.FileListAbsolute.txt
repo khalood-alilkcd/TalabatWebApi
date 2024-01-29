@@ -1,0 +1,59 @@
+F:\asp.net web api from YouTube\RealProject\Repository\bin\Debug\net6.0\Repository.deps.json
+F:\asp.net web api from YouTube\RealProject\Repository\bin\Debug\net6.0\Repository.dll
+F:\asp.net web api from YouTube\RealProject\Repository\bin\Debug\net6.0\Repository.pdb
+F:\asp.net web api from YouTube\RealProject\Repository\bin\Debug\net6.0\Entities.dll
+F:\asp.net web api from YouTube\RealProject\Repository\bin\Debug\net6.0\Entities.pdb
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\Repository.dll
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\Repository.pdb
+F:\asp.net web api from YouTube\RealProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+F:\asp.net web api from YouTube\RealProject\Repository\bin\Debug\net6.0\Contracts.dll
+F:\asp.net web api from YouTube\RealProject\Repository\bin\Debug\net6.0\Contracts.pdb
+F:\asp.net web api from YouTube\RealProject\Repository\bin\Debug\net6.0\Shared.dll
+F:\asp.net web api from YouTube\RealProject\Repository\bin\Debug\net6.0\Shared.pdb
+D:\work\talbat khaled ali\Talabat-Project\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\work\talbat khaled ali\Talabat-Project\Repository\bin\Debug\net6.0\Repository.dll
+D:\work\talbat khaled ali\Talabat-Project\Repository\bin\Debug\net6.0\Repository.pdb
+D:\work\talbat khaled ali\Talabat-Project\Repository\bin\Debug\net6.0\Contracts.dll
+D:\work\talbat khaled ali\Talabat-Project\Repository\bin\Debug\net6.0\Entities.dll
+D:\work\talbat khaled ali\Talabat-Project\Repository\bin\Debug\net6.0\Shared.dll
+D:\work\talbat khaled ali\Talabat-Project\Repository\bin\Debug\net6.0\Contracts.pdb
+D:\work\talbat khaled ali\Talabat-Project\Repository\bin\Debug\net6.0\Entities.pdb
+D:\work\talbat khaled ali\Talabat-Project\Repository\bin\Debug\net6.0\Shared.pdb
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\Repository.dll
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\Repository.pdb
+D:\work\talbat khaled ali\Talabat-Project\Repository\obj\Debug\net6.0\ref\Repository.dll
+F:\talabat\Talabat-Project\Repository\bin\Debug\net6.0\Repository.deps.json
+F:\talabat\Talabat-Project\Repository\bin\Debug\net6.0\Repository.dll
+F:\talabat\Talabat-Project\Repository\bin\Debug\net6.0\Repository.pdb
+F:\talabat\Talabat-Project\Repository\bin\Debug\net6.0\Contracts.dll
+F:\talabat\Talabat-Project\Repository\bin\Debug\net6.0\Entities.dll
+F:\talabat\Talabat-Project\Repository\bin\Debug\net6.0\Shared.dll
+F:\talabat\Talabat-Project\Repository\bin\Debug\net6.0\Contracts.pdb
+F:\talabat\Talabat-Project\Repository\bin\Debug\net6.0\Entities.pdb
+F:\talabat\Talabat-Project\Repository\bin\Debug\net6.0\Shared.pdb
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\Repository.dll
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\Repository.pdb
+F:\talabat\Talabat-Project\Repository\obj\Debug\net6.0\ref\Repository.dll
